@@ -1,0 +1,8 @@
+001,9848022337,Rajiv@gmail.com,Hyderabad,003
+002,9848022338,siddarth@gmail.com,Kolkata,003
+003,9848022339,Rajesh@gmail.com,Delhi,003
+004,9848022330,Preethi@gmail.com,Pune,003
+005,9848022336,Trupthi@gmail.com,Bhuwaneshwar,003
+006,9848022335,Archana@gmail.com,Chennai,003
+007,9848022334,Komal@gmail.com,trivendram,002
+008,9848022333,Bharathi@gmail.com,Chennai,001

@@ -1,0 +1,8 @@
+001,Rajiv,Reddy,21,programmer,003
+002,siddarth,Battacharya,22,programmer,003
+003,Rajesh,Khanna,22,programmer,003
+004,Preethi,Agarwal,21,programmer,003
+005,Trupthi,Mohanthy,23,programmer,003
+006,Archana,Mishra,23,programmer,003
+007,Komal,Nayak,24,teamlead,002
+008,Bharathi,Nambiayar,24,manager,001
